@@ -20,7 +20,9 @@ Actividades para la unidad de análisis de series temporales, cátedra Teleinfor
 | Descomposición de series temporales - ARIMA  | Content Cell  |
 
 
-## Tema 3
+## Mas??? 
+
+???
 
 ## Anexos
 
@@ -34,3 +36,6 @@ Actividades para la unidad de análisis de series temporales, cátedra Teleinfor
 ### Python aplicado a la ciencia de datos 
 
 [Python Data Science Handbook]( https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb])
+
+[Forecasting principles and practice]( https://otexts.com/fpp2/)
+
