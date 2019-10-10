@@ -5,8 +5,8 @@ Actividades para la unidad de análisis de series temporales, cátedra Teleinfor
 
 | Tema  | link notebook |
 | ------------- | ------------- |
-| Intro muy gentil a series temporales  | Content Cell  |
-| Valores perdidos: intro  | Content Cell  |
+| Métodos matemáticos  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/anadiedrichs/time-series-analysis/blob/master/intro_time_series_metodos_matem%C3%A1ticos.ipynb) |
+| Valores perdidos: intro  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/anadiedrichs/time-series-analysis/blob/master/intro_time_series_valores_perdidos.ipynb) |
 |Visualizamos series temporales||
 |Proyecto forma de onda|||
 
