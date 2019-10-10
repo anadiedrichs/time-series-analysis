@@ -1,7 +1,7 @@
 # time-series-analysis
 Actividades para la unidad de análisis de series temporales, cátedra Teleinformátia IoT, UTN Mendoza UTN FRM
 
-## Tema 1 
+## Clase 1 
 
 | Tema  | link notebook |
 | ------------- | ------------- |
@@ -10,11 +10,11 @@ Actividades para la unidad de análisis de series temporales, cátedra Teleinfor
 |Visualizamos series temporales|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/visualizacion_intro.ipynb) |
 |Proyecto forma de onda|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/proyecto_forma_de_onda_2019.ipynb) |
 
-## Tema 2
+## Clase 2
 
 | Tema  | link notebook |
 | ------------- | ------------- |
-| Intro muy gentil a series temporales  | Content Cell  |
+| Descomposición de series temporales - ARIMA  | Content Cell  |
 
 
 ## Tema 3
