@@ -8,10 +8,10 @@ Actividades para la unidad de análisis de series temporales, cátedra Teleinfor
 
 | Tema  | link notebook |
 | ------------- | ------------- |
-| Métodos matemáticos  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/intro_time_series_metodos_matem%C3%A1ticos.ipynb) |
-| Valores perdidos: intro  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/intro_time_series_valores_perdidos.ipynb) |
-|Visualizamos series temporales|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/visualizacion_intro.ipynb) |
-|Proyecto forma de onda|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/proyecto_forma_de_onda_2019.ipynb) |
+|a) Métodos matemáticos  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/intro_time_series_metodos_matem%C3%A1ticos.ipynb) |
+|b) Valores perdidos: intro  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/intro_time_series_valores_perdidos.ipynb) |
+|c) Visualizamos series temporales|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/visualizacion_intro.ipynb) |
+|1 - Proyecto forma de onda|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/proyecto_forma_de_onda_2019.ipynb) |
 
 ## Clase 2
 
