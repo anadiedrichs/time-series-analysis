@@ -17,3 +17,12 @@ Actividades para la unidad de análisis de series temporales, cátedra Teleinfor
 | Intro muy gentil a series temporales  | Content Cell  |
 
 ## Tema 3
+
+## Anexos
+
+### Aprender sobre Python
+[An Informal Introduction to Python](https://docs.python.org/3.5/tutorial/introduction.html)
+
+### Python aplicado a la ciencia de datos 
+
+[Python Data Science Handbook]( https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb])
