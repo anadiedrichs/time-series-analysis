@@ -3,6 +3,9 @@ Actividades para la unidad de análisis de series temporales, cátedra Teleinfor
 
 ## Clase 1 
 
+[Slides introductorias: metodología de trabajo](https://docs.google.com/presentation/d/1W6xQ79pPx199Ah_zKOdMbFMXpgHWRsbqLwDdor4OFzo/edit?usp=sharing)
+
+
 | Tema  | link notebook |
 | ------------- | ------------- |
 | Métodos matemáticos  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/intro_time_series_metodos_matem%C3%A1ticos.ipynb) |
