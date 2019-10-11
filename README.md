@@ -12,7 +12,7 @@ Actividades para la unidad de análisis de series temporales, cátedra Teleinfor
 |b) Valores perdidos: intro  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/intro_time_series_valores_perdidos.ipynb) |
 |c) Visualizamos series temporales|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/visualizacion_intro.ipynb) |
 |1 - Proyecto forma de onda|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/proyecto_forma_de_onda_2019.ipynb) |
-
+|2- demanda energética en Argentina |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/VER.ipynb) |
 ## Clase 2
 
 | Tema  | link notebook |
