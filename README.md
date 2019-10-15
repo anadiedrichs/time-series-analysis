@@ -16,6 +16,9 @@ Actividades para la unidad de análisis de series temporales, cátedra Teleinfor
 
 ## Clase 2
 
+WIP: work in progress, actividad con consignas aún no terminada.
+
+
 | Tema  | link notebook |
 | ------------- | ------------- |
 |2- demanda energética en Argentina WIP |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/VER.ipynb) |
