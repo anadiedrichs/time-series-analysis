@@ -1,5 +1,18 @@
 # time-series-analysis
-Actividades para la unidad de análisis de series temporales, cátedra Teleinformátia IoT, UTN Mendoza UTN FRM
+
+## Time series: a data science introduction
+
+Teaching materials for IoT class.
+
+Time series topics:
+* Tools: python, jupyter notebook, pandas, matplotlib
+* Time series visualization
+* Time series manipulation: dealing with missing values, filter
+* FFT, integration, etc
+* Projects for time series analysis.
+
+## Actividades para la unidad de análisis de series temporales, cátedra Teleinformátia IoT, UTN Mendoza UTN FRM
+
 
 ## Clase 1 
 
