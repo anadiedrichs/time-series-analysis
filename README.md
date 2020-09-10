@@ -18,21 +18,33 @@ Time series topics:
 
 | Tema  | link notebook |
 | ------------- | ------------- |
+Intro al entorno Google Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z6YPtctNMGFJPwu4NVmNfCA3n13cMoqA?usp=sharing) | 
 |Importar datos con Google Colab |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z-mXvjJqq7B-5JQz-CaMYJ_OsiTabavE?usp=sharing)|
-
-
+|
 
 
 ## Clase 1 
 
 [Slides introductorias: metodología de trabajo](https://docs.google.com/presentation/d/1W6xQ79pPx199Ah_zKOdMbFMXpgHWRsbqLwDdor4OFzo/edit?usp=sharing)
 
+### Visualizacion - Plotting time series
+
+| Tema  | link notebook |
+| ------------- | ------------- |
+| Charts in Colaboratory (en inglés, doc externo) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/charts.ipynb) ||c) Visualizamos series temporales|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/visualizacion_intro.ipynb) |
+
+### Métodos matemáticos
 
 | Tema  | link notebook |
 | ------------- | ------------- |
 |a) Métodos matemáticos  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/intro_time_series_metodos_matem%C3%A1ticos.ipynb) |
 |b) Valores perdidos: intro  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/intro_time_series_valores_perdidos.ipynb) |
 |c) Visualizamos series temporales|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/visualizacion_intro.ipynb) |
+
+### Caso de estudio 
+
+| Tema  | link notebook |
+| ------------- | ------------- |
 |1 - Proyecto forma de onda|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/proyecto_forma_de_onda_2019.ipynb) |
 
 
@@ -59,7 +71,6 @@ status: WIP
 ## Mas??? 
 
 | Tema  | link notebook |
-| Charts in Colaboratory | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/charts.ipynb) |
 
 ## Anexos
 
