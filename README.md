@@ -13,8 +13,11 @@ Time series topics:
 
 ## Actividades para la unidad de análisis de series temporales, cátedra Teleinformátia IoT, UTN Mendoza UTN FRM
 
+## Clase 1 
 
-## Intro
+[Slides introductorias: metodología de trabajo](https://docs.google.com/presentation/d/1W6xQ79pPx199Ah_zKOdMbFMXpgHWRsbqLwDdor4OFzo/edit?usp=sharing)
+
+### Intro
 
 | Tema  | link notebook |
 | ------------- | ------------- |
@@ -24,9 +27,6 @@ Intro al entorno Google Colab | [![Open In Colab](https://colab.research.google.
 |Guía de Markdown (recurso externo) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/notebooks/markdown_guide.ipynb) | 
 
 
-## Clase 1 
-
-[Slides introductorias: metodología de trabajo](https://docs.google.com/presentation/d/1W6xQ79pPx199Ah_zKOdMbFMXpgHWRsbqLwDdor4OFzo/edit?usp=sharing)
 
 ### Visualizacion - Plotting time series
 
