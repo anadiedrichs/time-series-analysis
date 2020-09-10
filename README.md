@@ -35,12 +35,16 @@ WIP: work in progress, actividad con consignas aún no terminada.
 | Tema  | link notebook |
 | ------------- | ------------- |
 |2- demanda energética en Argentina WIP |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18dJVVp-p4cnbMnY8bwFePvNRRYPdAEPF?usp=sharing) |
-| Descomposición de series temporales - ARIMA  | Content Cell  |
 |3- smartgrid hogareña o (datos consumo, generacion, clima) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kYPtJWq_bjMP4RcHV50HBV9xe3REJxBu?usp=sharing) |
 
 ## Clase 
 
 status: WIP
+
+| Tema  | link notebook |
+| ------------- | ------------- |
+| Descomposición de series temporales - ARIMA ??  | Content Cell  |
+| Prediccion de series temporales ??  | Content Cell  |
 
 
 ## Mas??? 
