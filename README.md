@@ -21,7 +21,7 @@ Time series topics:
 Intro al entorno Google Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z6YPtctNMGFJPwu4NVmNfCA3n13cMoqA?usp=sharing) | 
 |Intro a Pandas (recurso externo)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r-vuwyt0LO9tddkGcrOpRGRiko5RhWQP#scrollTo=JndnmDMp66FL) |
 |Importar datos a tu GoogleDrive desde/con Google Colab |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z-mXvjJqq7B-5JQz-CaMYJ_OsiTabavE?usp=sharing)|
-|
+|Guía de Markdown (recurso externo) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/notebooks/markdown_guide.ipynb) | 
 
 
 ## Clase 1 
@@ -33,6 +33,7 @@ Intro al entorno Google Colab | [![Open In Colab](https://colab.research.google.
 | Tema  | link notebook |
 | ------------- | ------------- |
 | Charts in Colaboratory (en inglés, doc externo) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/charts.ipynb) ||c) Visualizamos series temporales|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/visualizacion_intro.ipynb) |
+|c) Visualizamos series temporales|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/visualizacion_intro.ipynb) |
 
 ### Métodos matemáticos
 
@@ -40,7 +41,6 @@ Intro al entorno Google Colab | [![Open In Colab](https://colab.research.google.
 | ------------- | ------------- |
 |a) Métodos matemáticos  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/intro_time_series_metodos_matem%C3%A1ticos.ipynb) |
 |b) Valores perdidos: intro  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/intro_time_series_valores_perdidos.ipynb) |
-|c) Visualizamos series temporales|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/visualizacion_intro.ipynb) |
 
 ### Caso de estudio 
 
