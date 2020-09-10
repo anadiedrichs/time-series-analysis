@@ -19,7 +19,7 @@ Time series topics:
 | Tema  | link notebook |
 | ------------- | ------------- |
 Intro al entorno Google Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z6YPtctNMGFJPwu4NVmNfCA3n13cMoqA?usp=sharing) | 
-|Importar datos con Google Colab |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z-mXvjJqq7B-5JQz-CaMYJ_OsiTabavE?usp=sharing)|
+|Importar datos a tu GoogleDrive desde/con Google Colab |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z-mXvjJqq7B-5JQz-CaMYJ_OsiTabavE?usp=sharing)|
 |
 
 
