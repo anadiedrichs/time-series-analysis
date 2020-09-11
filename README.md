@@ -75,7 +75,7 @@ status: WIP
 
 | Tema  | link notebook |
 | ------------- | ------------- |
-|Importar / exportar datos a Colab desde Drive, GoogleSheets, +  (recurso externo)|[![Open In Colab](https://colab.research.google.com/notebooks/io.ipynb)|
+|Importar / exportar datos a Colab desde Drive, GoogleSheets, +  (recurso externo)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/io.ipynb)|
 
 ## Anexos
 
