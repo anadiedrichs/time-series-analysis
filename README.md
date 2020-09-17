@@ -56,12 +56,14 @@ WIP: work in progress, actividad con consignas aún no terminada.
 
 | Tema  | link notebook |
 | ------------- | ------------- |
-|2- demanda energética en Argentina WIP |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18dJVVp-p4cnbMnY8bwFePvNRRYPdAEPF?usp=sharing) |
-|3- smartgrid hogareña o (datos consumo, generacion, clima) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kYPtJWq_bjMP4RcHV50HBV9xe3REJxBu?usp=sharing) |
+|Laboratorio 2- smartgrid hogareña o (datos consumo, generacion, clima) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/Laboratorio_2_smartgrid_hogar.ipynb) |
+|Laboratorio 3- demanda energética en Argentina |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/time-series-analysis/intro_time_series_metodos_matemáticos.ipynb) |
+| Pandas Tips | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/time-series-analysis/) |
+
 
 ## Clase 
 
-status: WIP
+status: WIP work in progress
 
 | Tema  | link notebook |
 | ------------- | ------------- |
