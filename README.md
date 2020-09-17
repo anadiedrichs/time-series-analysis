@@ -46,12 +46,10 @@ Intro al entorno Google Colab | [![Open In Colab](https://colab.research.google.
 
 | Tema  | link notebook |
 | ------------- | ------------- |
-|1 - Proyecto forma de onda|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/proyecto_forma_de_onda_2019.ipynb) |
+|Laboratorio 1 - Proyecto forma de onda|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/proyecto_forma_de_onda_2019.ipynb) |
 
 
 ## Clase 2
-
-WIP: work in progress, actividad con consignas aún no terminada.
 
 
 | Tema  | link notebook |
