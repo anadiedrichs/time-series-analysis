@@ -55,9 +55,8 @@ Intro al entorno Google Colab | [![Open In Colab](https://colab.research.google.
 | Tema  | link notebook |
 | ------------- | ------------- |
 |Laboratorio 2- smartgrid hogareña o (datos consumo, generacion, clima) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/Laboratorio_2_smartgrid_hogar.ipynb) |
-|Laboratorio 3- demanda energética en Argentina |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/time-series-analysis/intro_time_series_metodos_matemáticos.ipynb) |
-| Pandas Tips | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/time-series-analysis/) |
-
+|Laboratorio 3- demanda energética en Argentina |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/Laboratorio_3_time_series_energia_argentina.ipynb) |
+| Pandas Tips | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/anadiedrichs/time-series-analysis/blob/master/Pandas_Python_Tips.ipynb) |
 
 ## Clase 
 
